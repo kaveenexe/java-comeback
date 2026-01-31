@@ -1,0 +1,10 @@
+package misc;
+
+// Print this pattern:
+// 1
+// 12
+// 123
+// 1234
+
+public class NumberPattern {
+}
